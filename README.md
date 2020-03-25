@@ -35,7 +35,7 @@
 
 4. 看看整个系统的全局UML类图, 对该程序有个清晰的认识:
 
-![UML类图](https://github.com/nano-cat/ComputerStore/blob/master/img/UML%E7%B1%BB%E5%9B%BE.png)
+![UML类图](img/UML类图.png)
 
 
 
